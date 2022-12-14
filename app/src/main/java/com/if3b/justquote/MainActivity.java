@@ -12,6 +12,7 @@ import com.ahmfarisi.justquote.R;
 public class MainActivity extends AppCompatActivity {
     private RecyclerView rvQuote;
     private ProgressBar pbQuote;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
